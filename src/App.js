@@ -11028,7 +11028,7 @@ function App() {
                 Lanthanoids
               </label>
               <label className="actinoid" htmlFor="actinoids">
-                Aktinoids
+                Actinoids
               </label>
               <label className="transition-metal" htmlFor="transition-metals">
                 Transition Metals
